@@ -1,0 +1,16 @@
+.bigred{
+    background-color: rgb(49, 207, 207);
+    border: 5px;
+    color: black;
+    padding: 3px;
+    text-align: center;
+    
+}
+.div{
+    background-color: rgba(179, 142, 43, 0.432);
+    border: 5px;
+    color: black;
+    padding: 3px;
+    text-align: center;
+    
+}
